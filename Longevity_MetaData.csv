@@ -1,0 +1,10 @@
+Term,Definition
+hapgroup,Mitochondrial haplogroups
+hapdup,Mitochondrial haplotypes nested within haplogroups
+location,Geographical origin of mitochondrial haplotypes
+bio,Biological replication at the level of mitochondrial haplotypes (Strain ID)
+sex,Sex of the fly
+temp,Temperature
+vial,Cohort ID
+block,Experimental block
+age,Age of death of the individual fly
